@@ -7,11 +7,9 @@
 
 -3.MongoDB.
 
--4.Routing-Controller.
+-4.Routing-Controller. Link: https://www.npmjs.com/package/routing-controllers
 
--5.Json Web Token (jwt)
-
-Link: https://www.npmjs.com/package/routing-controllers
+-5.Json Web Token (jwt) Link: https://www.npmjs.com/package/jsonwebtoken
 
 -$ cd Node_Routing_Controller_Mongo
 
